@@ -1,0 +1,23 @@
+.btnBlue {
+    background-color: blue;
+}
+
+.btnRed {
+    background-color: red;
+}
+
+.btnGreen {
+    background-color: green;
+}
+
+.btnYellow {
+    background-color: yellow;
+}
+
+button {
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+   
+}
+
